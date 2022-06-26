@@ -1,7 +1,6 @@
 # IJ.START.CANON
 
-	[![ij.start.canon](Get-Started-Now-Button3.png)](https://digipinpoint.com/ref.php?i=8b4d9b53-915c-4a07-8b72-0012d3c156cd)
-
+	[![canon.com/ijsetup](get-started.png)](https://digipinpoint.com/ref.php?i=8b4d9b53-915c-4a07-8b72-0012d3c156cd)
 For this purpose, you will install the printer drivers on your system. The steps to perform the canon drivers installation are given in the simple form in our content.
 
 ## What is Ij.start.canon related to what?
